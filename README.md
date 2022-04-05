@@ -2,7 +2,8 @@
 
 Dizem que a melhor maneira de aprender algo é ensinando, assim, neste repositório, estarei compartilhando meus aprendizados acerca de Programação Orientada a Objetos, aplicada na linguagem Java.
 
-Disponibilizarei materiais teóricos em PDF e exemplos de códigos, afinal, programar é prática.
+Disponibilizarei aqui materiais de minha autoria, tanto teóricos, em PDF, quanto exemplos de códigos, afinal, programar é prática.
+
 
 ## Direitos de uso
 
